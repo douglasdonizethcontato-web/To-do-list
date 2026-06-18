@@ -1,22 +1,19 @@
-📋 To-Do List React
-Uma aplicação web simples e eficiente para gerir as suas tarefas diárias, desenvolvida com React e LocalStorage para persistência de dados.
+# 📋 To-Do List React
 
-🚀 Funcionalidades
-Adicionar Tarefas: Adicione novas tarefas de forma rápida.
+Uma aplicação web simples e eficiente para gerir as suas tarefas diárias, desenvolvida com **React** e **LocalStorage** para persistência de dados.
 
-Marcar como Concluída: Clique na tarefa para riscar e marcar como concluída.
+##  Funcionalidades
+* **Adicionar Tarefas:** Adicione novas tarefas de forma rápida.
+* **Marcar como Concluída:** Clique na tarefa para riscar e marcar como concluída.
+* **Persistência de Dados:** Os seus dados são guardados no navegador; não perca as suas tarefas ao atualizar a página.
+* **Remoção:** Elimine tarefas facilmente.
+* **Design Responsivo:** Interface moderna com tema escuro.
 
-Persistência de Dados: Os seus dados são guardados no navegador; não perca as suas tarefas ao atualizar a página.
+##  Tecnologias Utilizadas
+* React
+* JavaScript (ES6+)
+* CSS3
+* LocalStorage API
 
-Remoção: Elimine tarefas facilmente.
 
-Design Responsivo: Interface moderna com tema escuro.
-
-🛠 Tecnologias Utilizadas
-React
-
-JavaScript (ES6+)
-
-CSS3 (Flexbox, Dark Mode)
-
-LocalStorage API
+Desenvolvido como projeto de portfólio.
